@@ -1,3 +1,5 @@
+# Do not delete, Using it with cr0ss0ver website.
+
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with meghna hugo theme by following this easy steps (No Coding Required)
 
